@@ -14,12 +14,12 @@ The page will display 1 to 100 wind Turbine result by using Laravel and React as
 # Installation
 Run:
 
-composer require laravel/ui
-php artisan ui react
-npm install && npm run dev
-npm install react-router
-npm install react-router-dom
-npm install react-bootstrap bootstrap@5.1.3
+- composer require laravel/ui
+- php artisan ui react
+- npm install && npm run dev
+- npm install react-router
+- npm install react-router-dom
+- npm install react-bootstrap bootstrap@5.1.3
 
 # Unit Test
 Run:
