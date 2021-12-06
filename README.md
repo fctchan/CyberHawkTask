@@ -1,10 +1,10 @@
 # CyberHawkTask
 Wind Turbine Task provided by Cyber Hawk Implemented by Chun Ting, Chan
 
-#Decrsiption
+# Decrsiption
 The page will display 1 to 100 wind Turbine result by using Laravel and React as front end. By using axios as ajax calling API to get data.
 
-#Protential Improvment
+# Protential Improvment
 1) Result can be shown by input specific value 1 to 100
 2) Layout refine including animation for rendering
 3) Function for changing the result output dynamically. 
